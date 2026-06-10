@@ -28,7 +28,7 @@ Karena challenge terdiri dari 100 soal dengan batas waktu yang sangat singkat, s
 - **Automatic Number Parser:**
   Bot memisahkan deretan angka dari soal menggunakan tanda koma, termasuk angka negatif
 - **Modulo-based Classifier:**
-  Menggunakan operator modulo % untuk menentukan genap/ganjil setiap angka secara instan
+  Menggunakan operator modulo %2 untuk menentukan genap/ganjil setiap angka secara instan
 - **Sub-1-Second Response Rate:**
   Jawaban dikirim dalam waktu kurang dari 1 detik per soal sehingga lolos dari batas waktu challenge
 
